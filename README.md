@@ -1,7 +1,8 @@
 ## Olá! Eu sou  a Irlana
 
 - 😃 Engenheira Física pela Universidade Federal do Oeste do Pará
-- 👩‍💻 Data Expert em Ciência de Dados e Machine Learning pela @Escola DNC
+- 👩‍💻 Analista de Machine Learning na @Itegra
+- 👨‍🎓 Data Expert em Ciência de Dados e Machine Learning pela @Escola DNC
 - 👩 Pronome: ela/dela
 - 📚 Estudando: 
    1. Deploy de aplicações em Produção
