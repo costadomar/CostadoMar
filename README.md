@@ -22,7 +22,8 @@
   <img align = "center" width= "40" height= "30" alt= "Irlana-jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align = "center" width= "50" height= "50" alt= "Irlana-git"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
   <img align = "center" width= "50" height= "40" alt= "Irlana-postgre" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
-          
+  <img align = "center" width= "50" height= "40" alt= "Irlana-postgre" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" />
+               
  </div>                        
  
  ##
