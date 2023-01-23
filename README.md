@@ -4,9 +4,9 @@
 - 👩‍💻 Data Expert em Ciência de Dados e Machine Learning pela @Escola DNC
 - 👩 Pronome: ela/dela
 - 📚 Estudando: 
-   1. linguagens: Python (pandas, numpy, sklearn, seaborn, etc) e SQL(SQLite)
-   2. Visualização de dados (Power BI, Metabase)
-   3. Machine Learning: Modelos supervisonados e não supervisionados
+   1. Deploy de aplicações em Produção
+   2. Docker e Containers
+   3. Nuvens públicas (AWS, Google Cloud)
 
  <div align="center">
  <a href= "https://github.com/costadomar">
@@ -19,7 +19,10 @@
   <img align = "center" width= "40" height= "30" alt= "Irlana-numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" >
   <img align = "center" width= "40" height= "30" alt= "Irlana-pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" >
   <img align = "center" width= "40" height= "30" alt= "Irlana-vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" >
-  <img align = "center" width= "40" height= "30" alt= "Irlana-jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"> 
+  <img align = "center" width= "40" height= "30" alt= "Irlana-jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align = "center" width= "50" height= "50" alt= "Irlana-git"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+  <img align = "center" width= "50" height= "40" alt= "Irlana-postgre" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
+          
  </div>                        
  
  ##
