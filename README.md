@@ -5,10 +5,9 @@
 - 👨‍🎓 Data Expert em Ciência de Dados e Machine Learning pela @Escola DNC
 - 👩 Pronome: ela/dela
 - 📚 Estudando: 
-   1. Deploy de aplicações em Produção
-   2. Docker e Containers
-   3. Nuvens públicas (AWS, Google Cloud)
-
+   1. Nuvens públicas (AWS, Google Cloud)
+   2. LLMs, LangChain e LangGraph
+   3. RAG, Agentes IA e LLM Routing
  <div align="center">
  <a href= "https://github.com/costadomar">
  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=costadomar&show_icons=true&theme=dracula"/>
