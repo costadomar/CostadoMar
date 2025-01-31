@@ -1,12 +1,12 @@
 ## Olá! Eu sou  a Irlana
 
 - 😃 Engenheira Física pela Universidade Federal do Oeste do Pará
-- 👩‍💻 Analista de Machine Learning na @Itegra
+- 👩‍💻 Engenheira de Machine Learning
 - 👨‍🎓 Data Expert em Ciência de Dados e Machine Learning pela @Escola DNC
 - 👩 Pronome: ela/dela
 - 📚 Estudando: 
    1. Nuvens públicas (AWS, Google Cloud)
-   2. LLMs, LangChain e LangGraph
+   2. LLMs, LangChain, LangGraph, CrewAi
    3. RAG, Agentes IA e LLM Routing
  <div align="center">
  <a href= "https://github.com/costadomar">
